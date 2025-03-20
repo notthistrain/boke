@@ -6,9 +6,9 @@ import { getThemeConfig } from '@sugarat/theme/node'
 
 // const baseUrl = 'https://sugarat.top'
 // const RSS: Theme.RSSOptions = {
-//   title: '粥里有勺糖',
+//   title: 'title',
 //   baseUrl,
-//   copyright: 'Copyright (c) 2018-present, 粥里有勺糖',
+//   copyright: 'Copyright (c) 2018-present,
 //   description: '你的指尖,拥有改变世界的力量（大前端相关技术分享）',
 //   language: 'zh-cn',
 //   image: 'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030',
@@ -46,12 +46,12 @@ const blogTheme = getThemeConfig({
   themeColor: 'el-blue',
 
   // 文章默认作者
-  author: '粥里有勺糖',
+  author: 'notthistrain',
 
   // 友链
   friend: [
     {
-      nickname: '粥里有勺糖',
+      nickname: 'notthistrain',
       des: '你的指尖用于改变世界的力量',
       avatar:
         'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030',
